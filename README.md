@@ -21,3 +21,4 @@ Upon visiting the portfolio, you can explore the following sections:
 - Resume: View or download the developer’s resume and explore their technical skills.
 
 **Link to deployed website**
+https://pablos-react-portfolio.netlify.app/
