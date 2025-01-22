@@ -1,6 +1,7 @@
-// This file is the main component of the application. It uses the react-router-dom to navigate between the different pages of the application. The Header and Footer components are imported and used in this file. The AboutMe, Portfolio, Contact, and Resume pages are imported and used in this file. The Routes and Route components are used to navigate between the different pages of the application.
+// this is the main file that will be rendered to the DOM
 import './App.css'
 import React from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import AboutMe from "./pages/AboutMe";
