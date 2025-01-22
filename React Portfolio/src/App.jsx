@@ -1,4 +1,4 @@
-// this is the main file that will be rendered to the DOM
+// this is the main file that will be rendered t
 import './App.css'
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
